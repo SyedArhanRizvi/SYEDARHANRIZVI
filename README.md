@@ -4,9 +4,7 @@
 <a href="https://www.youtube.com/c/syedarhanofficial" target="blank">
 <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" />
 </a>
-<a href="https://www.hackerrank.com/syedarhanrizvi" target="blank">
-<img src="https://img.icons8.com/color/48/hackerrank.png" alt="HackerRank" />
-</a>
+
 <a href="https://www.leetcode.com/syedarhanrizvi" target="blank">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
 </a>
