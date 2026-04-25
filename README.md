@@ -5,10 +5,6 @@
 <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
-<img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" />
-</a>
-
 <a href="https://www.linkedin.com/in/ꜱʏᴇᴅ-ᴀʀʜᴀɴ-ʀɪᴢᴠɪ" target="blank">
 <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
 </a>
@@ -32,6 +28,7 @@
 - Exploring Machine Learning, Deep Learning, and Reinforcement Learning  
 - Python developer working with NumPy, Pandas, and TensorFlow  
 - Experience with Docker, Nginx, and Redis  
+- Worked with both NoSQL (MongoDB) and SQL (MySQL) databases  
 - Pursuing BCA from Amity University  
 - Interested in scalable systems, SaaS, and performance-focused applications  
 
@@ -65,5 +62,13 @@
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedarhanrizvi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedarhanrizvi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=syedarhanrizvi&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarhanrizvi&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
