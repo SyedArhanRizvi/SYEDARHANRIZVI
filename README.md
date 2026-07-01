@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arhan%20Rizvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20ML%20Explorer&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syed%20Arhan%20Rizvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20ML%20Explorer&descAlignY=55&descSize=16" />
 
 <!-- STATUS BADGE -->
 <a href="https://wa.me/919354628900">
