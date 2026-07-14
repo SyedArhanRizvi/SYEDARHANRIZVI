@@ -1,147 +1,145 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=SYED%20ARHAN%20RIZVI&fontSize=55&fontColor=ffffff&animation=fadeIn&stroke=00E5FF&strokeWidth=2&color=0:030712,15:081F4D,35:0F52BA,65:00CFFF,100:FF2E63"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=CYBERTRON+OPERATING+SYSTEM+v2.0;FULL+STACK+ENGINEER;AI+%7C+ML+%7C+SYSTEM+ARCHITECT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,20:0B1F4D,45:1E3A8A,70:00C6FF,100:8B0000&text=SYED%20ARHAN%20RIZVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚡%20Cybertron%20Core%20Activated%20•%20Full-Stack%20Engineer%20•%20AI%20Explorer&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=icloud&logoColor=black"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=⚡+SYSTEM+ONLINE;⚙️+FULL+STACK+ENGINEER;🤖+MERN+STACK+SPECIALIST;🧠+MACHINE+LEARNING+EXPLORER;🚀+BUILDING+SCALABLE+DIGITAL+SYSTEMS"/>
 
-<img src="https://img.shields.io/badge/POWER-98%25-2ECC71?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/AI_CORE-ACTIVE-FF3B3B?style=for-the-badge"/>
+<a href="https://wa.me/919354628900">
+<img src="https://img.shields.io/badge/⚡_AVAILABLE_FOR_WORK-00D9FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+</a>
 
-<img src="https://img.shields.io/badge/LOCATION-INDIA-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERTRON_NODE-ONLINE-1ABCFE?style=for-the-badge&logo=icloud&logoColor=white"/>
 
-<img src="https://komarev.com/ghpvc/?username=syedarhanrizvi&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=syedarhanrizvi&style=for-the-badge&color=FF3131&label=VISITORS"/>
 
 </div>
 
 ---
 
-# ⚡ CYBERTRON DATABASE
+# ⚡ CYBERTRON SYSTEM PROFILE
 
-```ts
-┌──────────────────────────────────────────────────────────┐
-│               CYBERTRON COMMAND TERMINAL                 │
-├──────────────────────────────────────────────────────────┤
+```typescript
+╔════════════════════════════════════════════════════╗
+║      CYBERTRON COMMAND CENTER INITIALIZED         ║
+╚════════════════════════════════════════════════════╝
 
-> boot sequence................. COMPLETE
-
-> loading developer profile..... COMPLETE
-
-> initializing AI core.......... COMPLETE
+SYSTEM STATUS      :: ONLINE
+POWER LEVEL        :: 99%
+AI CORE            :: ACTIVE
+MISSION            :: BUILD • LEARN • EVOLVE
 
 class SyedArhanRizvi {
 
-    role = "Full Stack Engineer";
+    constructor() {
 
-    experience = "1.6+ Years";
+        this.role = "Full-Stack Engineer";
 
-    location = "Delhi, India";
+        this.level = "1.6+ Years";
 
-    education = "BCA";
+        this.location = "Delhi, India";
 
-    freelance = true;
+        this.education = "BCA";
 
-    currentMission = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "System Design",
-        "Scalable SaaS",
-        "Open Source"
-    ];
+        this.mode = "AUTONOMOUS";
 
-    weaponSystems = {
+        this.freelance = true;
 
-        Frontend : [
-            "React",
-            "Next.js",
-            "TypeScript",
-            "Tailwind",
-            "React Native"
-        ],
+    }
 
-        Backend : [
-            "Node.js",
-            "Express.js",
-            "REST API"
-        ],
+    weapons() {
 
-        Database : [
-            "MongoDB",
-            "MySQL",
-            "Redis"
-        ],
+        return {
 
-        DevOps : [
-            "Docker",
-            "Nginx",
-            "Linux",
-            "Git"
-        ],
+            Frontend: [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "React Native",
+                "Tailwind CSS"
+            ],
 
-        AI : [
-            "Python",
-            "TensorFlow",
-            "NumPy",
-            "Pandas",
-            "Machine Learning"
-        ]
+            Backend: [
+                "Node.js",
+                "Express.js",
+                "REST APIs"
+            ],
 
-    };
+            Database: [
+                "MongoDB",
+                "MySQL",
+                "Redis"
+            ],
 
-    transmission(){
+            AI: [
+                "Python",
+                "TensorFlow",
+                "NumPy",
+                "Pandas",
+                "Machine Learning"
+            ],
 
-        return "Available for Full-Time • Freelance • Open Source";
+            DevOps: [
+                "Docker",
+                "Nginx",
+                "Git",
+                "Linux"
+            ]
+        };
+
+    }
+
+    currentMission() {
+
+        return [
+            "Deep Learning",
+            "System Architecture",
+            "Distributed Systems",
+            "AI Agents",
+            "Open Source"
+        ];
+
+    }
+
+    transmission() {
+
+        return "Always Ready For New Missions 🚀";
 
     }
 
 }
 
 export default new SyedArhanRizvi();
-
-└──────────────────────────────────────────────────────────┘
 ```
 
----
+<div align="center">
 
-# ⚙ POWER LEVEL
+## ⚙️ CORE DIRECTIVES
 
 | MODULE | STATUS |
-|:----------------|:------:|
-| ⚛ React | ██████████ 100% |
-| ▲ Next.js | ██████████ 100% |
-| 🟩 Node.js | █████████░ 95% |
-| 🍃 MongoDB | █████████░ 90% |
-| 🐬 MySQL | █████████░ 90% |
-| 🐳 Docker | ████████░░ 80% |
-| 🤖 AI/ML | ███████░░░ 70% |
-| ⚡ Reinforcement Learning | █████░░░░░ 50% |
+|:--------|:------:|
+| ⚛ React | 🟢 ONLINE |
+| ▲ Next.js | 🟢 ONLINE |
+| 🟩 Node.js | 🟢 ONLINE |
+| 🍃 MongoDB | 🟢 ONLINE |
+| 🐬 MySQL | 🟢 ONLINE |
+| 🐳 Docker | 🟢 ONLINE |
+| 🤖 AI/ML | 🟢 LEARNING |
+| ⚡ Reinforcement Learning | 🟡 TRAINING |
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ CURRENT TRANSMISSION
+## ⚡ PRIME DIRECTIVE
 
-> **Transforming complex problems into scalable digital systems.**
+> **"Every bug defeated makes the system stronger."**
 
-<br>
-
-<a href="https://github.com/syedarhanrizvi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+> **"Transforming ideas into intelligent software."**
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:030712,25:081F4D,60:00CFFF,100:FF2E63"/>
