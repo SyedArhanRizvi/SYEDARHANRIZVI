@@ -1,95 +1,134 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syed%20Arhan%20Rizvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20ML%20Explorer&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,20:0B1F4D,45:1E3A8A,70:00C6FF,100:8B0000&text=SYED%20ARHAN%20RIZVI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚡%20Cybertron%20Core%20Activated%20•%20Full-Stack%20Engineer%20•%20AI%20Explorer&descAlignY=58&descSize=18"/>
 
-<!-- STATUS BADGE -->
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=⚡+SYSTEM+ONLINE;⚙️+FULL+STACK+ENGINEER;🤖+MERN+STACK+SPECIALIST;🧠+MACHINE+LEARNING+EXPLORER;🚀+BUILDING+SCALABLE+DIGITAL+SYSTEMS"/>
+
+<br><br>
+
 <a href="https://wa.me/919354628900">
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=circle&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_AVAILABLE_FOR_WORK-00D9FF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </a>
+
+<img src="https://img.shields.io/badge/CYBERTRON_NODE-ONLINE-1ABCFE?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=syedarhanrizvi&style=for-the-badge&color=FF3131&label=VISITORS"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `< About Me />`
-
-</div>
+# ⚡ CYBERTRON SYSTEM PROFILE
 
 ```typescript
-const arhan = {
-  name:       "Syed Arhan Rizvi",
-  location:   "Delhi, India 🇮🇳",
-  education:  "BCA @ Amity University",
-  experience: "1.6+ Years — MERN Stack",
-  freelance:  "5–6 Projects Delivered",
+╔════════════════════════════════════════════════════╗
+║      CYBERTRON COMMAND CENTER INITIALIZED         ║
+╚════════════════════════════════════════════════════╝
 
-  stack: {
-    frontend:  ["React", "Next.js", "React Native", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "MySQL"],
-    ml_ai:     ["Python", "TensorFlow", "NumPy", "Pandas"],
-    devops:    ["Docker", "Nginx", "Redis"],
-  },
+SYSTEM STATUS      :: ONLINE
+POWER LEVEL        :: 99%
+AI CORE            :: ACTIVE
+MISSION            :: BUILD • LEARN • EVOLVE
 
-  currentlyExploring: ["Machine Learning", "Deep Learning", "Reinforcement Learning"],
-  passionateAbout:    ["Scalable Systems", "SaaS Products", "Performance Engineering"],
-  openTo:             ["Freelance", "Full-time", "Collaboration"],
-};
+class SyedArhanRizvi {
+
+    constructor() {
+
+        this.role = "Full-Stack Engineer";
+
+        this.level = "1.6+ Years";
+
+        this.location = "Delhi, India";
+
+        this.education = "BCA";
+
+        this.mode = "AUTONOMOUS";
+
+        this.freelance = true;
+
+    }
+
+    weapons() {
+
+        return {
+
+            Frontend: [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "React Native",
+                "Tailwind CSS"
+            ],
+
+            Backend: [
+                "Node.js",
+                "Express.js",
+                "REST APIs"
+            ],
+
+            Database: [
+                "MongoDB",
+                "MySQL",
+                "Redis"
+            ],
+
+            AI: [
+                "Python",
+                "TensorFlow",
+                "NumPy",
+                "Pandas",
+                "Machine Learning"
+            ],
+
+            DevOps: [
+                "Docker",
+                "Nginx",
+                "Git",
+                "Linux"
+            ]
+        };
+
+    }
+
+    currentMission() {
+
+        return [
+            "Deep Learning",
+            "System Architecture",
+            "Distributed Systems",
+            "AI Agents",
+            "Open Source"
+        ];
+
+    }
+
+    transmission() {
+
+        return "Always Ready For New Missions 🚀";
+
+    }
+
+}
+
+export default new SyedArhanRizvi();
 ```
 
----
-
 <div align="center">
 
-## `< Tech Stack />`
+## ⚙️ CORE DIRECTIVES
 
-</div>
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**ML / Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-## `< GitHub Stats />`
-
-<img src="https://github-readme-stats.vercel.app/api?username=syedarhanrizvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarhanrizvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=syedarhanrizvi&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedarhanrizvi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+| MODULE | STATUS |
+|:--------|:------:|
+| ⚛ React | 🟢 ONLINE |
+| ▲ Next.js | 🟢 ONLINE |
+| 🟩 Node.js | 🟢 ONLINE |
+| 🍃 MongoDB | 🟢 ONLINE |
+| 🐬 MySQL | 🟢 ONLINE |
+| 🐳 Docker | 🟢 ONLINE |
+| 🤖 AI/ML | 🟢 LEARNING |
+| ⚡ Reinforcement Learning | 🟡 TRAINING |
 
 </div>
 
@@ -97,27 +136,10 @@ const arhan = {
 
 <div align="center">
 
-## `< Let's Connect />`
+## ⚡ PRIME DIRECTIVE
 
-<a href="https://wa.me/919354628900">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ꜱʏᴇᴅ-ᴀʀʜᴀɴ-ʀɪᴢᴠɪ">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:arhanrizvi9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.leetcode.com/syedarhanrizvi">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+> **"Every bug defeated makes the system stronger."**
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=syedarhanrizvi&style=for-the-badge&color=blueviolet)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+> **"Transforming ideas into intelligent software."**
 
 </div>
